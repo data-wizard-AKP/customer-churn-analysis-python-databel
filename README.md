@@ -76,7 +76,7 @@ Click any thumbnail to view the full page:
 | 15 | ![Page 15](https://github.com/data-wizard-AKP/customer-churn-analysis-python-databel/blob/main/Python_code/page_15.png) |
 | 16 | ![Page 16](https://github.com/data-wizard-AKP/customer-churn-analysis-python-databel/blob/main/Python_code/page_16.png) |
 | 17 | ![Page 17](https://github.com/data-wizard-AKP/customer-churn-analysis-python-databel/blob/main/Python_code/page_17.png) |
-
+| 17 | ![Page 17](https://github.com/data-wizard-AKP/customer-churn-analysis-python-databel/blob/main/Python_code/Page%2017%20.png) |
 ---
 
 ## 🤖 Logistic Regression Model
