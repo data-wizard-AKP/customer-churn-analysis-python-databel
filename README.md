@@ -93,9 +93,7 @@ We built and evaluated a logistic regression classifier:
 
 ## 🛠️ Tools & Technologies
 
-[![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)  
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/) [![Seaborn](https://img.shields.io/badge/Seaborn-77AADD?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)  
-[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) [![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/) [![Seaborn](https://img.shields.io/badge/Seaborn-77AADD?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/) [![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) [![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
 
 ---
@@ -111,9 +109,15 @@ We built and evaluated a logistic regression classifier:
 
 ## 👤 Author
 
-**Arun** – Data Analyst  
-- Power BI, Python, SQL & Excel  
-- Crafting data stories & predictive solutions  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/data-wizard-AKP/customer-churn-analysis-python-databel/main/Python_code/Arun.jpeg" alt="Arun" width="120" style="border-radius:50%;" />
+</p>
+
+<p align="center">
+  <strong>Arun</strong> – Data Analyst<br/>
+  • Power BI, Python, SQL & Excel<br/>
+  • Crafting data stories & predictive solutions
+</p>
 
 ---
 
